@@ -1,0 +1,2 @@
+export const COLLEGE_LOOKUP_API_KEY = 'L85ifuK3q3qwO5imPsdAjB4Dare3cUzsHNmnKIZl'
+export const GOOGLE_MAPS_API_KEY='AIzaSyBU1ZuugGZc1kbeZmePjzNSacIxiZudhkA'
